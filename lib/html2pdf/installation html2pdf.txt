@@ -1,0 +1,7 @@
+1 telechargement de html2pdf
+
+2 php -r "readfile('https://getcomposer.org/installer');" | php
+
+3 curl -sS https://getcomposer.org/installer | php
+
+4 php composer.phar install

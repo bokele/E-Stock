@@ -1,0 +1,5 @@
+php -r "readfile('https://getcomposer.org/installer');" | php
+
+curl -sS https://getcomposer.org/installer | php
+
+php composer.phar install
